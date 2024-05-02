@@ -1,0 +1,3 @@
+Devs:sistemas,terminais
+Gerentes:terminal,cadastro
+tecnicos:sistemas
